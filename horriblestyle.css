@@ -13,17 +13,24 @@ footer{
     bottom: 5px;
 }
 
+table{
+    background: aqua;
+    border-radius: 10px;
+}
+
 td{
     padding: 10px 0 10px 0;
-    background: aqua;
+
 }
 
 .navigation{
     background: aquamarine;
+    border-radius: 10px;
 }
 
 .uglyDiv{
     background: aqua;
+    border-radius: 10px;
 
     -webkit-transform:rotateY(180deg);
     -moz-transform:rotateY(180deg);
