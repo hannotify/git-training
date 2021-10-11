@@ -5,11 +5,17 @@ li{
 body{
     background: #ff0ff2;
     padding-top: 20px;
+    font-family: "Comic Sans MS", serif;
 }
 
 footer{
     position:fixed;
     bottom: 5px;
+}
+
+td{
+    padding: 10px 0 10px 0;
+    background: aqua;
 }
 
 .navigation{
