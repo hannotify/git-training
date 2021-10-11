@@ -3,6 +3,7 @@ li{
 }
 
 body{
+    background: #ff0ff2;
     padding-top: 20px;
 }
 
@@ -11,7 +12,7 @@ footer{
     bottom: 5px;
 }
 
-.regularDiv{
+.navigation{
     background: aquamarine;
 }
 
