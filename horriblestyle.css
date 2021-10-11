@@ -1,0 +1,22 @@
+li{
+    color: deeppink;
+}
+
+body{
+    padding-top: 20px;
+}
+
+.regularDiv{
+    background: aquamarine;
+}
+
+.uglyDiv{
+    background: aqua;
+
+    -webkit-transform:rotateY(180deg);
+    -moz-transform:rotateY(180deg);
+    -o-transform:rotateY(180deg);
+    -ms-transform:rotateY(180deg);
+    unicode-bidi:bidi-override;
+    direction:rtl;
+}
